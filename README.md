@@ -1,7 +1,7 @@
-## Nombre de la Herramienta
+## Micrositio Índice de Capital Social - PNUD CDMX (2020)
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
-<h1 align="center"> Nombre de la herramienta</h1>
+<h1 align="center"> Micrositio índice de capital social</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
@@ -20,9 +20,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 
 ## Badges o Escudos
-Incluye badges que proporcionen información útil sobre el estado del proyecto, como la cobertura de código, versiones estables, etc. Recomendamos revisar shields.io para generar los badges necesarios.
-
-Ejemplo:
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CodeandoMexico_acclab-capitalsocial&metric=alert_status)](https://sonarcloud.io/dashboard?id=CodeandoMexico_acclab-capitalsocial)
 
 
 ## Descripción y Contexto
