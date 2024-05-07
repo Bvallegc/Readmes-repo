@@ -1,4 +1,4 @@
-## Desarrollo y Implementación de la Plataforma Tecnológica 'Barrio Intercambia' para el Proyecto Ciudad Policéntrica - PNUD CDMX (2020)
+## Micrositio de México Creativo - PNUD CDMX (2020)
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de capital social</h1>
@@ -22,7 +22,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 ## Badges o Escudos
 
 ## Descripción y Contexto
-Este repositorio contiene el código fuente de una plataforma en línea la cual permite a los residentes de comunidades en Ciudad Policéntrica publicar y buscar necesidades u ofrecer servicios, productos, habilidades, o cualquier tipo de ayuda que puedan proporcionar o necesitar dentro de su comunidad.
+Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio.
 
 ## Guía de Usuario
 Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
