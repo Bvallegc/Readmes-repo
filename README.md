@@ -22,9 +22,8 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 ## Badges o Escudos
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CodeandoMexico_acclab-capitalsocial&metric=alert_status)](https://sonarcloud.io/dashboard?id=CodeandoMexico_acclab-capitalsocial)
 
-
 ## Descripción y Contexto
-Breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y claro en tu explicación.
+Este repositorio contiene el código fuente del micrositio desarrollado para enseñar el Índice de Capital Social del PNUD en la Ciudad de México en 2020. El principal objetivo del micrositio es dar a conocer y demostrar de manera transparente la metodología utilizada en el proyecto.
 
 ## Guía de Usuario
 Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
@@ -36,13 +35,14 @@ Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital
 Indica cómo los desarrolladores pueden contribuir al proyecto mediante pull requests, reporte de errores, etc. También puedes describir las pautas de estilo que se deben seguir.
 
 ## Código de Conducta
-Describe las normas de comportamiento esperadas en la interacción con el proyecto y su comunidad. Puedes incluir un enlace a un archivo CODE_OF_CONDUCT.md donde se detallen estas normas.
+Lee y adhiérete al código de conducta del proyecto para garantizar un entorno de colaboración respetuoso y acogedor. Puedes encontrar más detalles en el archivo CODE_OF_CONDUCT.md.
 
 ## Autor/es
-Menciona al autor o autores originales del proyecto. Proporciona información de contacto si es necesario.
+Este micrositio fue desarrollado por: Servicios de apoyo de diseño y programación de soluciones tecnológicas, ciencia de datos y análisis y visualización de datos para el Laboratorio de Aceleración del PNUD en México (AccLab)
+
 
 ## Información Adicional
-Aquí puedes agregar información complementaria relevante al proyecto, como enlaces a sitios web relacionados o proyectos similares.
+Visita [sitio web relacionado] para obtener más información sobre el Laboratorio de Aceleración PNUD México y sus proyectos.
 
 ## Licencia
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
