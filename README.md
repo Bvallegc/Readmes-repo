@@ -4,15 +4,15 @@
 
 ## Tabla de Contenidos
 - [Badges o Escudos](#badges-o-escudos)
-- [Descripción y Contexto](#descripcion-y-contexto)
-- [Guía de Usuario](#guia-de-usuario)
-- [Guía de Instalación](#guia-de-instalacion)
-- [Cómo Contribuir](#como-contribuir)
-- [Código de Conducta](#codigo-de-conducta)
-- [Autor/es](#autor/es)
-- [Información Adicional](#informacion-adicional)
+- [Descripción y Contexto](#descripción-y-contexto)
+- [Guía de Usuario](#guía-de-usuario)
+- [Guía de Instalación](#guía-de-instalación)
+- [Cómo Contribuir](#cómo-contribuir)
+- [Código de Conducta](#código-de-conducta)
+- [Autor/es](#autores)
+- [Información Adicional](#información-adicional)
 - [Licencia](#licencia)
-- [Limitación de Responsabilidades (Solo BID)](#limitacion-de-resposabilidades-(solo-bid))
+- [Limitación de Responsabilidades (Solo BID)](#limitación-de-responsabilidades-solo-bid)
 
 
 ## Badges o Escudos
