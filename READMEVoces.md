@@ -1,4 +1,4 @@
-## Micrositio de México Creativo - PNUD CDMX (2020)
+## Micrositio "Voces del Istmo" - PNUD CDMX (2020)
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de capital social</h1>
@@ -22,7 +22,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 ## Badges o Escudos
 
 ## Descripción y Contexto
-Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio.
+Este repositorio contiene el código fuente del micrositio, Voces del Istmo. Este proyecto busca destacar voces y experiencias de las comunidades del Istmo de Tehuantepec en México, a través de un sistema online e interactivo.
 
 ## Guía de Usuario
 Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
