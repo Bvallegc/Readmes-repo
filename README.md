@@ -3,7 +3,7 @@
 
 
 ## Tabla de Contenidos
-- Badges o Escudos
+- [Badges o Escudos](#Badges o Escudos)
 - Descripción y Contexto
 - Guía de Usuario
 - Guía de Instalación
