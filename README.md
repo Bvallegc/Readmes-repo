@@ -3,16 +3,16 @@
 
 
 ## Tabla de Contenidos
-Badges o Escudos
-Descripción y Contexto
-Guía de Usuario
-Guía de Instalación
-Cómo Contribuir
-Código de Conducta
-Autor/es
-Información Adicional
-Licencia
-Limitación de Responsabilidades (Solo BID)
+- Badges o Escudos
+- Descripción y Contexto
+- Guía de Usuario
+- Guía de Instalación
+- Cómo Contribuir
+- Código de Conducta
+- Autor/es
+- Información Adicional
+- Licencia
+- Limitación de Responsabilidades (Solo BID)
 
 
 ## Badges o Escudos
