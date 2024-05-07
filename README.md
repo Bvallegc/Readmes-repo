@@ -1,7 +1,9 @@
 ## Nombre de la Herramienta
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
-[Nombre de la Herramienta]
+<h1 align="center"> Nombre de la herramienta</h1>
+<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
 
 ## Tabla de Contenidos
