@@ -20,7 +20,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 
 ## Badges o Escudos
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CodeandoMexico_acclab-capitalsocial&metric=alert_status)](https://sonarcloud.io/dashboard?id=CodeandoMexico_acclab-capitalsocial)
 
 ## Descripción y Contexto
 Este repositorio contiene el código fuente del micrositio desarrollado para enseñar el Índice de Capital Social del PNUD en la Ciudad de México en 2020. El principal objetivo del micrositio es dar a conocer y demostrar de manera transparente la metodología utilizada en el proyecto.
