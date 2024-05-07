@@ -24,7 +24,7 @@ Ejemplo:
 ## Descripción y Contexto
 Breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y claro en tu explicación.
 
-# Guía de Usuario
+## Guía de Usuario
 Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
 
 ## Guía de Instalación
