@@ -21,10 +21,15 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 Este repositorio contiene el código fuente de una plataforma en línea la cual permite a los residentes de comunidades en Ciudad Policéntrica publicar y buscar necesidades u ofrecer servicios, productos, habilidades, o cualquier tipo de ayuda que puedan proporcionar o necesitar dentro de su comunidad.
 
 ## Guía de Usuario
-Esta herramienta esta separada para funcionar en dos colonias. Renovación y Topiltzin separadas en subrutas del mismo dominio. En la herramienta el usuario dispone de dos posibilidades; ser buscador o ofrecer un trabajo. Para cualquiera de estas dos opciones tienes que indentificarte dar datos de contacto y seleccionar cuanto tiempo quieres que el anuncio este colgado. 
+Esta herramienta esta separada para funcionar en dos colonias. Renovación y Topiltzin separadas en subrutas del mismo dominio. En la herramienta el usuario dispone de dos posibilidades; ser buscador o ofrecer un trabajo. Para cualquiera de estas dos opciones tienes que indentificarte dar datos de contacto y seleccionar cuanto tiempo quieres que el anuncio este colgado. Bajando mas abajo podemos buscar anuncios y filtralos. Abajo hay unas imágenes demostrando las vistas del micrositio.
 | ![Imagen1](images/BIintro.png) | ![Imagen2](images/BIexplora.png) |
 |:---:|:---:|
-| Caption 1 | Caption 2 |
+| Buscar u ofrecer | Busca anuncios |
+
+| ![Imagen3](images/BIanuncio.png) | ![Imagen4](images/BIbusco.png) |
+|:---:|:---:|
+| Ejemplo de un anuncio | Buscar servicio/producto |
+
 
 ## Guía de Instalación
 Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital, incluyendo requisitos del sistema operativo, dependencias, y pasos para la compilación y ejecución.
