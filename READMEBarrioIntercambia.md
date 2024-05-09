@@ -2,7 +2,6 @@
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de capital social</h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p align="center"><img src="images/barrioIntercambia.png"/></p> 
 
 
@@ -18,14 +17,14 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 - [Licencia](#licencia)
 - [Limitación de Responsabilidades (Solo BID)](#limitación-de-responsabilidades-solo-bid)
 
-
-## Badges o Escudos
-
 ## Descripción y Contexto
 Este repositorio contiene el código fuente de una plataforma en línea la cual permite a los residentes de comunidades en Ciudad Policéntrica publicar y buscar necesidades u ofrecer servicios, productos, habilidades, o cualquier tipo de ayuda que puedan proporcionar o necesitar dentro de su comunidad.
 
 ## Guía de Usuario
-Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
+Esta herramienta esta separada para funcionar en dos colonias. Renovación y Topiltzin separadas en subrutas del mismo dominio. En la herramienta el usuario dispone de dos posibilidades; ser buscador o ofrecer un trabajo. Para cualquiera de estas dos opciones tienes que indentificarte dar datos de contacto y seleccionar cuanto tiempo quieres que el anuncio este colgado. 
+| ![Imagen1](images/BIintro.png) | ![Imagen2](images/BIexplora.png) |
+|:---:|:---:|
+| Caption 1 | Caption 2 |
 
 ## Guía de Instalación
 Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital, incluyendo requisitos del sistema operativo, dependencias, y pasos para la compilación y ejecución.
