@@ -6,10 +6,8 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 
 ## Tabla de Contenidos
-- [Badges o Escudos](#badges-o-escudos)
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Usuario](#guía-de-usuario)
-- [Guía de Instalación](#guía-de-instalación)
 - [Cómo Contribuir](#cómo-contribuir)
 - [Código de Conducta](#código-de-conducta)
 - [Autor/es](#autores)
@@ -22,17 +20,13 @@ Este repositorio contiene el código fuente de una plataforma en línea la cual 
 
 ## Guía de Usuario
 Esta herramienta esta separada para funcionar en dos colonias. Renovación y Topiltzin separadas en subrutas del mismo dominio. En la herramienta el usuario dispone de dos posibilidades; ser buscador o ofrecer un trabajo. Para cualquiera de estas dos opciones tienes que indentificarte dar datos de contacto y seleccionar cuanto tiempo quieres que el anuncio este colgado. Bajando mas abajo podemos buscar anuncios y filtralos. Abajo hay unas imágenes demostrando las vistas del micrositio.
-| ![Imagen1](images/BIintro.png) | ![Imagen2](images/BIexplora.png) |
+| ![Imagen1](images/BIintro.png) | ![Imagen2](images/BIbusco.png) |
 |:---:|:---:|
-| Buscar u ofrecer | Busca anuncios |
+| Buscar u ofrecer | Buscar servicio/producto |
 
-| ![Imagen3](images/BIanuncio.png) | ![Imagen4](images/BIbusco.png) |
+| ![Imagen3](images/BIexplora.png) | ![Imagen4](images/BIanuncio.png) |
 |:---:|:---:|
-| Ejemplo de un anuncio | Buscar servicio/producto |
-
-
-## Guía de Instalación
-Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital, incluyendo requisitos del sistema operativo, dependencias, y pasos para la compilación y ejecución.
+| Busca anuncios | Ejemplo de un anuncio |
 
 ## Cómo Contribuir
 Indica cómo los desarrolladores pueden contribuir al proyecto mediante pull requests, reporte de errores, etc. También puedes describir las pautas de estilo que se deben seguir.
@@ -50,5 +44,10 @@ Visita [la web de acclab](https://www.undp.org/acceleratorlabs) para obtener má
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
 
 ## Limitación de Responsabilidades (Solo BID)
-Disclaimer
-El BID no será responsable, bajo ninguna circunstancia, por daños o pérdidas derivadas del uso de esta herramienta digital, incluyendo defectos en la herramienta o pérdida/inexactitud de datos.
+Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
+
+El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
+
+i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
+
+ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
