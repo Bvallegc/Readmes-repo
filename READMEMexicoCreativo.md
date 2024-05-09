@@ -2,12 +2,10 @@
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de capital social</h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="mexicoCreativo.png"/></p> 
 
 
 ## Tabla de Contenidos
-- [Badges o Escudos](#badges-o-escudos)
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Usuario](#guía-de-usuario)
 - [Guía de Instalación](#guía-de-instalación)
@@ -18,17 +16,22 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 - [Licencia](#licencia)
 - [Limitación de Responsabilidades (Solo BID)](#limitación-de-responsabilidades-solo-bid)
 
-
-## Badges o Escudos
-
 ## Descripción y Contexto
-Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio.
+Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio. Resonancias es una herramienta de construcción colectiva, pensada para reunir información relevante para construir política cultural, ya sea pública, privada o emanada del sector de la sociedad civil organizada y que apunte a fortalecer el ecosistema cultural y sus cadenas de valor.
 
 ## Guía de Usuario
 Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
 
 ## Guía de Instalación
-Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital, incluyendo requisitos del sistema operativo, dependencias, y pasos para la compilación y ejecución.
+    #install dependencies
+    $ yarn install
+
+    #serve with hot reload at localhost:3000
+    $ yarn dev
+
+    #build for production and launch server
+    $ yarn build
+    $ yarn start
 
 ## Cómo Contribuir
 Indica cómo los desarrolladores pueden contribuir al proyecto mediante pull requests, reporte de errores, etc. También puedes describir las pautas de estilo que se deben seguir.
