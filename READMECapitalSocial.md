@@ -3,7 +3,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 <h1 align="center"> Micrositio índice de capital social</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+<p align="center"><img src="images/MicrositioCS.png"/></p> 
 
 
 ## Tabla de Contenidos
