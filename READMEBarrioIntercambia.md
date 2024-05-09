@@ -40,7 +40,7 @@ Lee y adhiérete al código de conducta del proyecto para garantizar un entorno 
 Este micrositio fue desarrollado por: Servicios de apoyo de diseño y programación de soluciones tecnológicas, ciencia de datos y análisis y visualización de datos para el Laboratorio de Aceleración del PNUD en México (AccLab)
 
 ## Información Adicional
-Visita [[sitio web relacionado](https://www.undp.org/acceleratorlabs)] para obtener más información sobre el Laboratorio de Aceleración PNUD México y sus proyectos.
+Visita [[la web de acclab](https://www.undp.org/acceleratorlabs)] para obtener más información sobre el Laboratorio de Aceleración PNUD México y sus proyectos.
 
 ## Licencia
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
