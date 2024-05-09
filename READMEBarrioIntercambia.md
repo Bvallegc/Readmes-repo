@@ -1,7 +1,7 @@
 ## Desarrollo y Implementación de la Plataforma Tecnológica 'Barrio Intercambia' para el Proyecto Ciudad Policéntrica - PNUD CDMX (2020)
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
-<h1 align="center"> Micrositio índice de capital social</h1>
+<h1 align="center"> Micrositio Barrio Intercambia</h1>
 <p align="center"><img src="images/barrioIntercambia.png"/></p> 
 
 
