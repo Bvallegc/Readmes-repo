@@ -7,10 +7,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 ## Tabla de Contenidos
 - [Descripción y Contexto](#descripción-y-contexto)
-- [Guía de Usuario](#guía-de-usuario)
 - [Guía de Instalación](#guía-de-instalación)
-- [Cómo Contribuir](#cómo-contribuir)
-- [Código de Conducta](#código-de-conducta)
 - [Autor/es](#autores)
 - [Información Adicional](#información-adicional)
 - [Licencia](#licencia)
@@ -18,9 +15,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 ## Descripción y Contexto
 Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio. Resonancias es una herramienta de construcción colectiva, pensada para reunir información relevante para construir política cultural, ya sea pública, privada o emanada del sector de la sociedad civil organizada y que apunte a fortalecer el ecosistema cultural y sus cadenas de valor.
-
-## Guía de Usuario
-Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
 
 ## Guía de Instalación
     #install dependencies
@@ -32,12 +26,6 @@ Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes inclu
     #build for production and launch server
     $ yarn build
     $ yarn start
-
-## Cómo Contribuir
-Indica cómo los desarrolladores pueden contribuir al proyecto mediante pull requests, reporte de errores, etc. También puedes describir las pautas de estilo que se deben seguir.
-
-## Código de Conducta
-Lee y adhiérete al código de conducta del proyecto para garantizar un entorno de colaboración respetuoso y acogedor. Puedes encontrar más detalles en el archivo CODE_OF_CONDUCT.md.
 
 ## Autor/es
 Este micrositio fue desarrollado por: Servicios de apoyo de diseño y programación de soluciones tecnológicas, ciencia de datos y análisis y visualización de datos para el Laboratorio de Aceleración del PNUD en México (AccLab)

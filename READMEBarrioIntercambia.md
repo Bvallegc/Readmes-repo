@@ -8,8 +8,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 ## Tabla de Contenidos
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Usuario](#guía-de-usuario)
-- [Cómo Contribuir](#cómo-contribuir)
-- [Código de Conducta](#código-de-conducta)
 - [Autor/es](#autores)
 - [Información Adicional](#información-adicional)
 - [Licencia](#licencia)
@@ -27,12 +25,6 @@ Esta herramienta esta separada para funcionar en dos colonias. Renovación y Top
 | ![Imagen3](images/BIexplora.png) | ![Imagen4](images/BIanuncio.png) |
 |:---:|:---:|
 | Busca anuncios | Ejemplo de un anuncio |
-
-## Cómo Contribuir
-Indica cómo los desarrolladores pueden contribuir al proyecto mediante pull requests, reporte de errores, etc. También puedes describir las pautas de estilo que se deben seguir.
-
-## Código de Conducta
-Lee y adhiérete al código de conducta del proyecto para garantizar un entorno de colaboración respetuoso y acogedor. Puedes encontrar más detalles en el archivo CODE_OF_CONDUCT.md.
 
 ## Autor/es
 Este micrositio fue desarrollado por: Servicios de apoyo de diseño y programación de soluciones tecnológicas, ciencia de datos y análisis y visualización de datos para el Laboratorio de Aceleración del PNUD en México (AccLab)
