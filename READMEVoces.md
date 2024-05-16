@@ -6,16 +6,12 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 
 ## Tabla de Contenidos
-- [Badges o Escudos](#badges-o-escudos)
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Instalación](#guía-de-instalación)
 - [Autor/es](#autores)
 - [Información Adicional](#información-adicional)
 - [Licencia](#licencia)
 - [Limitación de Responsabilidades (Solo BID)](#limitación-de-responsabilidades-solo-bid)
-
-
-## Badges o Escudos
 
 ## Descripción y Contexto
 Este repositorio contiene el código fuente del micrositio, Voces del Istmo. Este proyecto busca destacar voces y experiencias de las comunidades del Istmo de Tehuantepec en México, a través de un sistema online e interactivo.

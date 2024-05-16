@@ -8,8 +8,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 ## Tabla de Contenidos
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Usuario](#guía-de-usuario)
-- [Cómo Contribuir](#cómo-contribuir)
-- [Código de Conducta](#código-de-conducta)
 - [Autor/es](#autores)
 - [Información Adicional](#información-adicional)
 - [Licencia](#licencia)
