@@ -1,7 +1,7 @@
 ## Micrositio de México Creativo - PNUD CDMX (2020)
 Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
-<h1 align="center"> Micrositio índice México Creativo</h1>
+<h1 align="center"> Micrositio México Creativo</h1>
 <p align="center"><img src="images/mexicoCreativo.png"/></p> 
 
 
