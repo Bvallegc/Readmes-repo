@@ -23,8 +23,12 @@ Este repositorio contiene el código fuente del micrositio desarrollado para ens
 ## Guía de Usuario
 
 Contando con la página de inicio podemos encontrar 5 subrutas en el dominio web.
-| ![Imagen1](images/CSinicio.png) | ![Imagen2](images/CSalcaldias.png) | ![Imagen3](images/BIexplora.png) |
-|:---:|:---:|:---:|
+| ![Imagen1](images/CSinicio.png) |
+|:---:|
+| Inicio | Buscar servicio/producto |
+
+| ![Imagen2](images/CSalcaldias.png) | ![Imagen3](images/BIexplora.png) |
+|:---:|:---:|
 | Inicio | Buscar servicio/producto |
 
 | ![Imagen4](images/BIexplora.png) | ![Imagen5](images/BIanuncio.png) |
