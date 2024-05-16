@@ -7,7 +7,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 ## Tabla de Contenidos
 - [Descripción y Contexto](#descripción-y-contexto)
-- [Guía de Usuario](#guía-de-usuario)
 - [Guía de Instalación](#guía-de-instalación)
 - [Autor/es](#autores)
 - [Información Adicional](#información-adicional)
@@ -16,9 +15,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 ## Descripción y Contexto
 Este repositorio contiene el código fuente del micrositio, el cual, se encarga de difundir los resultados del sondeo realizado en el marco del proyecto México Creativo. Los datos fueron recopilados mediante un sondeo y se presentaron de manera organizada y accesible a través del micrositio. Resonancias es una herramienta de construcción colectiva, pensada para reunir información relevante para construir política cultural, ya sea pública, privada o emanada del sector de la sociedad civil organizada y que apunte a fortalecer el ecosistema cultural y sus cadenas de valor.
-
-## Guía de Usuario
-Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
 
 ## Guía de Instalación
     #install dependencies
