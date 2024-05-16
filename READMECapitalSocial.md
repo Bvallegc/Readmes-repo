@@ -7,7 +7,6 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 
 
 ## Tabla de Contenidos
-- [Badges o Escudos](#badges-o-escudos)
 - [Descripción y Contexto](#descripción-y-contexto)
 - [Guía de Usuario](#guía-de-usuario)
 - [Guía de Instalación](#guía-de-instalación)
@@ -18,14 +17,19 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 - [Licencia](#licencia)
 - [Limitación de Responsabilidades (Solo BID)](#limitación-de-responsabilidades-solo-bid)
 
-
-## Badges o Escudos
-
 ## Descripción y Contexto
 Este repositorio contiene el código fuente del micrositio desarrollado para enseñar el Índice de Capital Social del PNUD en la Ciudad de México en 2020. El principal objetivo del micrositio es dar a conocer y demostrar de manera transparente la metodología utilizada en el proyecto.
 
 ## Guía de Usuario
-Explica los pasos básicos sobre cómo usar la herramienta digital. Puedes incluir capturas de pantalla o gifs para facilitar la comprensión.
+
+Contando con la página de inicio podemos encontrar 5 subrutas en el dominio web.
+| ![Imagen1](images/CSinicio.png) | ![Imagen2](images/CSalcaldias.png) | ![Imagen3](images/BIexplora.png) |
+|:---:|:---:|:---:|
+| Inicio | Buscar servicio/producto |
+
+| ![Imagen4](images/BIexplora.png) | ![Imagen5](images/BIanuncio.png) |
+|:---:|:---:|
+| Busca anuncios | Ejemplo de un anuncio |
 
 ## Guía de Instalación
 Proporciona instrucciones detalladas sobre cómo instalar la herramienta digital, incluyendo requisitos del sistema operativo, dependencias, y pasos para la compilación y ejecución.
