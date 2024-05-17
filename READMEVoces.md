@@ -1,9 +1,7 @@
 ## Micrositio "Voces del Istmo" - PNUD CDMX (2020)
-Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de voces del Istmo</h1>
 <p align="center"><img src="images/voces.png"/></p> 
-
 
 ## Tabla de Contenidos
 - [Descripción y Contexto](#descripción-y-contexto)
@@ -17,17 +15,31 @@ Esta herramienta digital forma parte del catálogo de herramientas del Banco Int
 Este repositorio contiene el código fuente del micrositio, Voces del Istmo. Este proyecto busca destacar voces y experiencias de las comunidades del Istmo de Tehuantepec en México, a través de un sistema online e interactivo.
 
 ## Guía de Instalación
-    #install dependencies
+A continuación se presenta una guía detallada para la instalación y ejecución del micrositio de Voces del Itsmo del PNUD.
+
+1. Requisitos Previos
+Antes de comenzar con la instalación, asegúrate de tener instalados los siguientes requisitos:
+
+Node.js (versión 12 o superior)
+npm (Node Package Manager) o Yarn
+    
+    # Clonar repositorio de manera local:
+    git clone https://github.com/tu_usuario/tu_repositorio.git
+    cd tu_repositorio
+
+    # Instala las dependencias necesarias para el proyecto. Puedes usar npm o Yarn:
     $ yarn install
 
-    #serve with hot reload at localhost:3000
+    # Hostear en localhost:3000
     $ yarn dev
 
-    #build for production and launch server
+    # Cuando estés listo para construir el proyecto para producción, ejecuta el siguiente comando:
     $ yarn build
+
+    # Para iniciar el servidor de producción, utiliza:
     $ yarn start
 
-    #generate static project
+    # Generar Proyecto Estático
     $ yarn generate
 
 ## Autor/es
@@ -39,10 +51,8 @@ Visita [la web de acclab](https://www.undp.org/acceleratorlabs) para obtener má
 ## Licencia
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
 
-## Limitación de Responsabilidades (Solo BID)
-Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
-
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
+## Limitación de Responsabilidades
+El UNDP no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
 i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 

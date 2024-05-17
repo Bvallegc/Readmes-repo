@@ -1,5 +1,4 @@
 ## Micrositio Índice de Capital Social - PNUD CDMX (2020)
-Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio índice de capital social</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
@@ -34,18 +33,32 @@ Contando con la página de inicio podemos encontrar 5 subrutas en el dominio web
 | La metodología y datos usados se encuentran en esta página. | Página de nosotros |
 
 ## Guía de Instalación
-    #install dependencies
-    $ npm install
+A continuación se presenta una guía detallada para la instalación y ejecución del micrositio del Índice de Capital Social del PNUD en la Ciudad de México.
 
-    #serve with hot reload at localhost:3000
-    $ npm run dev
+1. Requisitos Previos
+Antes de comenzar con la instalación, asegúrate de tener instalados los siguientes requisitos:
 
-    #build for production and launch server
-    $ npm run build
-    $ npm run start
+Node.js (versión 12 o superior)
+npm (Node Package Manager) o Yarn
+    
+    # Clonar repositorio de manera local:
+    git clone https://github.com/tu_usuario/tu_repositorio.git
+    cd tu_repositorio
 
-    #generate static project
-    $ npm run generate
+    # Instala las dependencias necesarias para el proyecto. Puedes usar npm o Yarn:
+    $ yarn install
+
+    # Hostear en localhost:3000
+    $ yarn dev
+
+    # Cuando estés listo para construir el proyecto para producción, ejecuta el siguiente comando:
+    $ yarn build
+
+    # Para iniciar el servidor de producción, utiliza:
+    $ yarn start
+
+    # Generar Proyecto Estático
+    $ yarn generate
 
 ## Autor/es
 Este micrositio fue desarrollado por: Servicios de apoyo de diseño y programación de soluciones tecnológicas, ciencia de datos y análisis y visualización de datos para el Laboratorio de Aceleración del PNUD en México (AccLab)
@@ -56,10 +69,8 @@ Visita [la web de acclab](https://www.undp.org/acceleratorlabs) para obtener má
 ## Licencia
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
 
-## Limitación de Responsabilidades (Solo BID)
-Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
-
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
+## Limitación de Responsabilidades
+El UNDP no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
 i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 

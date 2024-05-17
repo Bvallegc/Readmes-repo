@@ -1,5 +1,4 @@
 ## Desarrollo y Implementación de la Plataforma Tecnológica 'Barrio Intercambia' para el Proyecto Ciudad Policéntrica - PNUD CDMX (2020)
-Esta herramienta digital forma parte del catálogo de herramientas del Banco Interamericano de Desarrollo. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](http://code.iadb.org)
 
 <h1 align="center"> Micrositio Barrio Intercambia</h1>
 <p align="center"><img src="images/barrioIntercambia.png"/></p> 
@@ -35,10 +34,8 @@ Visita [la web de acclab](https://www.undp.org/acceleratorlabs) para obtener má
 ## Licencia
 Este proyecto está bajo la siguiente licencia: [Nombre de la Licencia]. Ver el archivo LICENSE.md para más detalles.
 
-## Limitación de Responsabilidades (Solo BID)
-Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
-
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
+## Limitación de Responsabilidades
+El UNDP no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
 
 i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
 
